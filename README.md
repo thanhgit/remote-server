@@ -1,8 +1,8 @@
 # remote-server
 
 ## Project Structure
-### - Front-end-remote-server (react)
-### - Back-end-remote-server (gin in golang)
+### - Front-end-remote-server (react) (https://github.com/thanhgit/front-end-remote-server)
+### - Back-end-remote-server (gin in golang) (https://github.com/thanhgit/back-end-remote-server)
 ### - WebSSH2 (https://github.com/billchurch/WebSSH2)
 
 ## Remote server workflow
