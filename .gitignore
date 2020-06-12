@@ -1,0 +1,27 @@
+back-end-remote-server/.idea/workspace.xml
+# See https://help.github.com/ignore-files/ for more about ignoring files.
+
+# dependencies
+front-end-remote-server/node_modules
+
+# testing
+front-end-remote-server/coverage
+
+# production
+front-end-remote-server/build
+
+# npmjs
+front-end-remote-server/dist
+
+# misc
+front-end-remote-server/.DS_Store
+front-end-remote-server/.env.local
+front-end-remote-server/.env.development.local
+front-end-remote-server/.env.test.local
+front-end-remote-server/.env.production.local
+
+front-end-remote-server/npm-debug.log*
+front-end-remote-server/yarn-debug.log*
+front-end-remote-server/yarn-error.log*
+
+
