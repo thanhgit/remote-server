@@ -1,10 +1,13 @@
-PHONY: start-server stop-server list-server
+PHONY: start-server stop-server list-server log-server
 
 start-server:
-	sh build-script.sh
+	sh script/build-script.sh
 
 stop-server:
-	sh clean.sh
+	sh script/clean.sh
 
 list-server:
-	sh list.sh
+	sh script/list.sh
+
+log-server:
+	sh script/log.sh

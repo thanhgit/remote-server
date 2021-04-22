@@ -36,20 +36,20 @@ http://xxx.xxx.xxx.xxx
 
 ## Remote server workflow
 <div>
-<img src="./remote-server-workflow.png" width="80%" />
+<img src="./doc/remote-server-workflow.png" width="80%" />
 </div>
 
 ## API server backend
 <div>
-<img src="./server_api.png" width="80%" />
+<img src="./doc/server_api.png" width="80%" />
 </div>
 
 ## UI of application 
 <div>
-<img src="./dashboard.png" width="30%" />
-<img src="./servers.png" width="30%" />
-<img src="./accessquickly.png" width="30%" />
-<img src="./ssh2_gui.png" width="30%" />
+<img src="./doc/dashboard.png" width="30%" />
+<img src="./doc/servers.png" width="30%" />
+<img src="./doc/accessquickly.png" width="30%" />
+<img src="./doc/ssh2_gui.png" width="30%" />
 </div>
 
 ## Technical Support or Questions
