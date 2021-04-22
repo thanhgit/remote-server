@@ -9,4 +9,4 @@ else
 fi
 
 cd front-end-remote-server
-./build-script.sh
+make start-server
